@@ -5,7 +5,7 @@ void main() {
   // var sortedlist = [];
   result = twonumbersum(List, target);
   for (int i = 0; i < result.length; i++) {
-    print(result[i]);
+    print(result);
   }
 }
 
